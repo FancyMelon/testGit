@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "extractingdata.h": "c",
+        "linkedlist.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "datatolinkedlist.h": "c",
+        "sortinglinkedlist.h": "c",
+        "bstlastname.h": "c"
+    }
+}
